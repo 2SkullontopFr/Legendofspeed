@@ -5,7 +5,7 @@ if game.PlaceId == 3101667897 then
     -- Notificação
     OrionLib:MakeNotification({
 	Name = "The Legends HUB by 2skull9 ⚡",
-	Content = "The Legends HUB by 2skull ⚡ Legends Of Speed",
+	Content = "The Legends HUB by 2skull9 ⚡ Legends Of Speed by skull",
 	Image = "rbxassetid://4483345998",
 	Time = 5
     })
